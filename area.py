@@ -1,4 +1,4 @@
-import pi from math
+from math import pi
 
 print("==================")
 print("Area Calculater 📐")
