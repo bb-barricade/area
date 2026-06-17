@@ -26,8 +26,7 @@ elif shape == 2 or shape == 3:
   area = base * height
 elif shape == 4:
   radius = int(input('Radius: '))
-  p = pi()
-  area = p * radius * radius
+  area = pi * radius * radius
 else:
   exit()
 
